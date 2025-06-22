@@ -14,8 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.bytebuddy:byte-buddy:1.17.5")
-    implementation("net.bytebuddy:byte-buddy-agent:1.17.5")
+    implementation("net.bytebuddy:byte-buddy:1.17.6")
     implementation("org.ow2.asm:asm:9.8")
 }
 
